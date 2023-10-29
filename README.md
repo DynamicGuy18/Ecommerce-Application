@@ -10,7 +10,7 @@
 
 <br>
 
-![alt text]()
+![alt text](https://github.com/DynamicGuy18/Ecommerce-Application/blob/985c246687d6c6e1f10a44030ce4c3f3d243a7cd/.vscode/second.png)
 
 <br>
 
