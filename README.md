@@ -6,15 +6,15 @@
 
 <h2> User Interface Snapshots </h2>
 
-![alt text](https://github.com/DynamicGuy18/Ecommerce-Application/blob/af328fa2c9c16ec5c6736da93421f6af88c32263/.vscode/first.png)
+![alt text](https://github.com/DynamicGuy18/Ecommerce-Application/blob/65b00dde28d12899fee3482a19a6fe8753a83d40/.vscode/first.png)
 
 <br>
 
-![alt text](https://github.com/DynamicGuy18/Ecommerce-Application/blob/af328fa2c9c16ec5c6736da93421f6af88c32263/.vscode/second.png)
+![alt text]()
 
 <br>
 
-![alt text](https://github.com/DynamicGuy18/Ecommerce-Application/blob/af328fa2c9c16ec5c6736da93421f6af88c32263/.vscode/third.png)
+![alt text]()
 
 
 ## 🌟 Key Features
