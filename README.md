@@ -3,8 +3,18 @@
 
 🚀 Welcome to the Ecommerce Desktop Application – a powerhouse of functionality and efficiency, thoughtfully crafted with JavaFX! This application empowers users with essential Ecommerce features while prioritizing robust functionality over flashy design.This application is not UI-centric; it has a very basic UI. Instead, it is more of a backend application with complex business logic and efficient, accurate functioning.
 
-![Ecommerce Desktop Application](https://github.com/DynamicGuy18/Ecommerce-Application/blob/af328fa2c9c16ec5c6736da93421f6af88c32263/.vscode/Screenshot%20(69).png)
+
+<h2> User Interface Snapshots </h2>
+
+![alt text](https://github.com/DynamicGuy18/Ecommerce-Application/blob/af328fa2c9c16ec5c6736da93421f6af88c32263/.vscode/first.png)
+
 <br>
+
+![alt text](https://github.com/DynamicGuy18/Ecommerce-Application/blob/af328fa2c9c16ec5c6736da93421f6af88c32263/.vscode/second.png)
+
+<br>
+
+![alt text](https://github.com/DynamicGuy18/Ecommerce-Application/blob/af328fa2c9c16ec5c6736da93421f6af88c32263/.vscode/third.png)
 
 
 ## 🌟 Key Features
